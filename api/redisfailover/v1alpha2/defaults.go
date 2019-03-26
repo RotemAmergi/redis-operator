@@ -6,7 +6,7 @@ const (
 	defaultExporterImage        = "oliver006/redis_exporter"
 	defaultExporterImageVersion = "v0.11.3"
 	defaultRedisImage           = "redis"
-	defaultRedisImageVersion    = "3.2-alpine"
+	defaultRedisImageVersion    = "5.0.4-alpine"
 )
 
 var (
